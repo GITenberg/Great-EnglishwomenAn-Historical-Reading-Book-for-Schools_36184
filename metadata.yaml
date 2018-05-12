@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25681'
     url: http://www.gutenberg.org/2009/agents/25681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36184#Great-EnglishwomenAn-Historical-Reading-Book-for-Schools
 gutenberg_issued: '2011-05-22'
 gutenberg_type: Text
 identifiers:
