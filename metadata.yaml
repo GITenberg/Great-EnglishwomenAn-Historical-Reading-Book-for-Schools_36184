@@ -1,0 +1,33 @@
+_repo: Great-EnglishwomenAn-Historical-Reading-Book-for-Schools_36184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Synge, M. B. (Margaret Bertha)
+    alias: Synge, Margaret Bertha
+    deathdate: 1939
+    gutenberg_agent_id: '25681'
+    url: http://www.gutenberg.org/2009/agents/25681
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Women -- Great Britain -- Biography'
+tableOfContents: Queen Bertha (died 606) -- Maude the Good (1080-1118) -- Eleanor
+  of Aquitaine (1122-1204) -- Philippa of Hainault (1313-1369) -- Margaret of Anjou
+  (1429-1480) -- The Lady Margaret (1441-1509) -- Margaret Roper (1501?-1544) -- Lady
+  Jane Grey (1537-1554) -- Princess Elizabeth (1596-1662) -- Lady Rachel Russell (1636-1723)
+  -- Angelica Kaufmann (1741-1807) -- Hannah More (1745-1833) -- Elizabeth Fry (1780-1845)
+  -- Mary Somerville (1780-1872) -- Elizabeth Barrett Browning (1809-1861) -- Florence
+  Nightingale (born 1820).
+title: 'Great Englishwomen: An Historical Reading Book for Schools'
+url: http://www.gutenberg.org/ebooks/36184
